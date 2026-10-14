@@ -1,0 +1,6 @@
+{
+  "name": "Casio fx-991CW ClassWiz Scientific Calculator",
+  "description": "Authentic, feature-rich Casio fx-991CW ClassWiz scientific calculator clone featuring Natural Textbook Display, 12 ClassWiz apps, matrix, vector, statistics, equation solver, spreadsheet, and exact math formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
